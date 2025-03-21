@@ -1,14 +1,12 @@
 # 🚀 Rick and Morty App
 
-![Rick and Morty](assets/screenshots/screenshots_1.png)s
-
 Приложение, использующее **Rick and Morty API**, для просмотра персонажей, поиска, добавления в избранное и переключения темного режима.
 
 ## 📸 Скриншоты
 
 | Главный экран | Экран внутри карточки | Поиск персонажей | Избранное | Экран настройки | Темная тема |
 |---------------|-----------------------|------------------|-----------|-----------------|-------------|
-| ![Главный экран](assets/screenshots/screenshots_1.png) | ![Экран внутри карточки](assets/screenshots/screenshots_2.png) | ![Поиск](assets/screenshots/screenshots_7.png) | ![Избранное](assets/screenshots/screenshots_3.png) |![Экран настройки](assets/screenshots/screenshots_1.png) | ![Темная тема](assets/screenshots/screenshots_6.png) |
+| ![Главный экран](assets/screenshots/screenshot_1.png) | ![Экран внутри карточки](assets/screenshots/screenshots_2.png) | ![Поиск](assets/screenshots/screenshot_7.png) | ![Избранное](assets/screenshots/screenshot_3.png) |![Экран настройки](assets/screenshots/screenshot_1.png) | ![Темная тема](assets/screenshots/screenshot_6.png) |
 
 ---
 
