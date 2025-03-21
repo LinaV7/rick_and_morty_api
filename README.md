@@ -6,7 +6,7 @@
 
 | Главный экран | Экран внутри карточки | Поиск персонажей | Избранное | Экран настройки | Темная тема |
 |---------------|-----------------------|------------------|-----------|-----------------|-------------|
-| ![Главный экран](assets/screenshots/screenshot_1.png) | ![Экран внутри карточки](assets/screenshots/screenshots_2.png) | ![Поиск](assets/screenshots/screenshot_7.png) | ![Избранное](assets/screenshots/screenshot_3.png) |![Экран настройки](assets/screenshots/screenshot_1.png) | ![Темная тема](assets/screenshots/screenshot_6.png) |
+| ![Главный экран](assets/screenshots/screenshot_1.png) | ![Экран внутри карточки](assets/screenshots/screenshot_2.png) | ![Поиск](assets/screenshots/screenshot_7.png) | ![Избранное](assets/screenshots/screenshot_3.png) |![Экран настройки](assets/screenshots/screenshot_4.png) | ![Темная тема](assets/screenshots/screenshot_6.png) |
 
 ---
 
