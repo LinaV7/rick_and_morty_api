@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\android",
+    "\\android\\app",
+    "\\android\\app\\src",
+    "\\android\\app\\src\\main",
+    "\\android\\app\\src\\main\\res",
+    "\\android\\app\\src\\profile",
+    "\\android\\gradle",
+    "\\android\\gradle\\wrapper",
+    "\\web"
+  ],
+  "PreviewInSolutionExplorer": false
+}
